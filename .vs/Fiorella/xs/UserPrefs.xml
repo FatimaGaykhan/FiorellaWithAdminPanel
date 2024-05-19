@@ -1,0 +1,56 @@
+﻿<Properties StartupConfiguration="{959D9549-42FB-4248-A391-1B6D5E20A4A2}|Default">
+  <MonoDevelop.Ide.ItemProperties.Fiorella PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fiorella/Areas/Admin/Controllers/BlogController.cs">
+    <Files>
+      <File FileName="Fiorella/Areas/Admin/Controllers/BlogController.cs" Line="69" Column="50" />
+      <File FileName="Fiorella/Services/Interfaces/ICategoryService.cs" Line="15" Column="1" />
+      <File FileName="Fiorella/Services/Interfaces/IBlogService.cs" Line="14" Column="37" />
+      <File FileName="Fiorella/Services/BlogService.cs" Line="28" Column="10" />
+      <File FileName="Fiorella/Services/CategoryService.cs" Line="24" Column="8" />
+      <File FileName="Fiorella/Areas/Admin/Views/Blog/Index.cshtml" Line="3" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Fiorella" expanded="True">
+            <Node name="Fiorella" expanded="True">
+              <Node name="Areas" expanded="True">
+                <Node name="Admin" expanded="True">
+                  <Node name="Controllers" expanded="True">
+                    <Node name="BlogController.cs" selected="True" />
+                  </Node>
+                  <Node name="Views" expanded="True">
+                    <Node name="Blog" expanded="True" />
+                    <Node name="Category" expanded="True" />
+                    <Node name="Dashboard" expanded="True" />
+                    <Node name="Shared" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+              </Node>
+              <Node name="ViewModels" expanded="True">
+                <Node name="Blog" expanded="True" />
+                <Node name="Categories" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
